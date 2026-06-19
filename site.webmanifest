@@ -1,0 +1,16 @@
+{
+  "name": "Featurely AI",
+  "short_name": "Featurely",
+  "description": "Explainable behavioral simulations at population scale.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070706",
+  "theme_color": "#070706",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
